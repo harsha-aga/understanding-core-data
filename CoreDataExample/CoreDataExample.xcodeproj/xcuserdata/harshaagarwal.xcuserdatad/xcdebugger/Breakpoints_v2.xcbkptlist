@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "366535A7-AEF5-4975-9A96-687F5E939655"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E37E6C87-3905-4147-B16E-D19CF06BF8C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "deleteItems(item:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E37E6C87-3905-4147-B16E-D19CF06BF8C6 - 7f0751809ecb884a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataExample.ViewController.deleteItems(item: CoreDataExample.ToDoList) -&gt; ()"
+                  moduleName = "CoreDataExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshaagarwal/Desktop/CoreDataExample/CoreDataExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "E37E6C87-3905-4147-B16E-D19CF06BF8C6 - 7f0751809ecb884a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataExample.ViewController.deleteItems(item: CoreDataExample.ToDoList) -&gt; ()"
+                  moduleName = "CoreDataExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshaagarwal/Desktop/CoreDataExample/CoreDataExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53FA6E32-C211-4F13-8982-0C53E03160EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "createItem(name:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "53FA6E32-C211-4F13-8982-0C53E03160EA - 37d912bafd33d0b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataExample.ViewController.createItem(name: Swift.String) -&gt; ()"
+                  moduleName = "CoreDataExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshaagarwal/Desktop/CoreDataExample/CoreDataExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "456">
+               </Location>
+               <Location
+                  uuid = "53FA6E32-C211-4F13-8982-0C53E03160EA - 37d912bafd33d0b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataExample.ViewController.createItem(name: Swift.String) -&gt; ()"
+                  moduleName = "CoreDataExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshaagarwal/Desktop/CoreDataExample/CoreDataExample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5C2A164-E11F-4880-A201-860C7823E678"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7A0A826-972A-4899-9B11-455F44E1F3BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataExample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
